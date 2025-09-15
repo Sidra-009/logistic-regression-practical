@@ -67,5 +67,5 @@ This project demonstrates the practical implementation of **Logistic Regression*
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/logistic-regression-iris.git
+git clone https://github.com/Sidra-009/logistic-regression-iris.git
 cd logistic-regression-iris
